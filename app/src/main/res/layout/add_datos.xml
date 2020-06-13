@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <com.jcminarro.roundkornerlayout.RoundKornerLinearLayout
+        android:orientation="vertical"
+        android:background="#ffff9800"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5.0dip"
+        android:layout_marginTop="5.0dip"
+        android:layout_marginRight="5.0dip"
+        android:layout_marginBottom="5.0dip"
+        app:corner_radius="16.0dip">
+
+        <RelativeLayout
+            android:orientation="horizontal"
+            android:id="@+id/re1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="12.0dip">
+
+            <TextView
+                android:id="@+id/textid"
+                android:visibility="gone"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="0" />
+
+            <TextView
+                android:textSize="20.0sp"
+                android:textStyle="bold"
+                android:textColor="#ff000000"
+                android:gravity="center"
+                android:id="@+id/textNombre"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10.0dip"
+                android:text=""
+                android:layout_marginStart="10.0dip"
+                android:layout_marginEnd="0.0dip" />
+
+            <TextView
+                android:textAppearance="?android:textAppearanceLarge"
+                android:textSize="25.0sp"
+                android:textStyle="bold"
+                android:id="@+id/idMenu"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5.0dip"
+                android:text="   ⋮"
+                android:textColor="#ff000000"
+                android:layout_marginStart="5.0dip"
+                android:layout_marginEnd="8.0sp"
+                android:layout_alignEnd="@id/textNombre" />
+
+
+        </RelativeLayout>
+
+
+        <LinearLayout
+            android:gravity="center"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10.0dip"
+            android:layout_marginTop="5.0dip"
+            android:layout_marginRight="10.0dip">
+
+            <TextView
+                android:textSize="20.0sp"
+                android:textStyle="bold"
+                android:textColor="#ff000000"
+                android:gravity="center"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/dia"
+                android:layout_weight="1.0" />
+
+            <TextView
+                android:textSize="20.0sp"
+                android:textStyle="bold"
+                android:textColor="#ff000000"
+                android:gravity="center"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/mes"
+                android:layout_weight="1.0" />
+
+            <TextView
+                android:textSize="20.0sp"
+                android:textStyle="bold"
+                android:textColor="#ff000000"
+                android:gravity="center"
+                android:id="@+id/idedad"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/edad"
+                android:layout_weight="1.0" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:gravity="center"
+            android:paddingBottom="10.0dip"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10.0dip"
+            android:layout_marginTop="0.0dip"
+            android:layout_marginRight="10.0dip">
+
+            <TextView
+                android:textSize="20.0sp"
+                android:textColor="#ffffffff"
+                android:gravity="center"
+                android:id="@+id/textDay"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="31"
+                android:layout_weight="1.0" />
+
+            <TextView
+                android:textSize="20.0sp"
+                android:textColor="#ffffffff"
+                android:gravity="center"
+                android:id="@+id/textMonth"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Septiembre"
+                android:layout_weight="1.0" />
+
+            <TextView
+                android:textSize="20.0sp"
+                android:textColor="#ffffffff"
+                android:gravity="center"
+                android:id="@+id/textYear"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="00"
+                android:layout_weight="1.0" />
+
+        </LinearLayout>
+
+    </com.jcminarro.roundkornerlayout.RoundKornerLinearLayout>
+
+</LinearLayout>

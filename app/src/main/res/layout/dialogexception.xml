@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.jcminarro.roundkornerlayout.RoundKornerLinearLayout
+    android:gravity="center"
+    android:layout_gravity="center"
+    android:orientation="vertical"
+    android:background="#ffd1fdff"
+    android:padding="20.0sp"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    app:corner_radius="13.0dip"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <TextView
+        android:textSize="20.0sp"
+        android:textColor="#ff0c8c84"
+        android:gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5.0dip"
+        android:text="@string/no_ano" />
+
+    <TextView
+        android:textSize="20.0sp"
+        android:textColor="#ff0c8c84"
+        android:gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5.0dip"
+        android:text="@string/alert_signo" />
+
+
+    <com.jcminarro.roundkornerlayout.RoundKornerLinearLayout
+        android:layout_width="100.0dip"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        app:corner_radius="15dp">
+
+        <Button
+            android:textSize="20.0sp"
+            android:textStyle="bold"
+            android:textColor="#fffdf8eb"
+            android:id="@+id/okexception"
+            android:background="@color/main"
+            android:layout_width="0.0dip"
+            android:layout_height="50.0dip"
+            android:layout_marginLeft="5.0sp"
+            android:layout_marginRight="5.0sp"
+            android:text="@string/ok"
+            android:layout_weight="1.0"/>
+
+    </com.jcminarro.roundkornerlayout.RoundKornerLinearLayout>
+
+</com.jcminarro.roundkornerlayout.RoundKornerLinearLayout>

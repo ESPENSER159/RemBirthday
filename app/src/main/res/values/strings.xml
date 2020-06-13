@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">RemBirthday</string>
+
+
+    <string name="cancelar">CANCELAR</string>
+    <string name="crear_fecha">Crear Fecha</string>
+    <string name="delete_notify">¿Estás seguro de ELIMINAR este Cumpleaños?</string>
+    <string name="dia">Día</string>
+    <string name="edad">Edad</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="falta_el_nombre">Falta el Nombre</string>
+    <string name="falta_el_ano">Falta el Año</string>
+    <string name="falta_el_dia">Falta el Día</string>
+    <string name="falta_el_mes">Falta el Mes</string>
+    <string name="fecha_de_nacimiento">Fecha de Nacimiento</string>
+    <string name="mes">Mes</string>
+    <string name="modificar">Modificar</string>
+    <string name="no">NO</string>
+    <string name="nombre">Nombre</string>
+    <string name="nombre_persona">Nombre Persona</string>
+    <string name="notiDeAcceso">Este es un acceso especial, Si tocas alguna casilla se borrara el respectivo cumpleaños.</string>
+    <string name="notiSlide">Desliza el dedo hacia abajo para actualizar</string>
+    <string name="ok">OK</string>
+    <string name="si">SI</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="textFirst1">Agrega todas las fechas que desees con el icono de arriba,</string>
+    <string name="textFirst2">Además te estaré notificando cuando sea el cumpleaños de alguien.</string>
+    <string name="title">CUMPLEAÑOS</string>
+    <string name="title_activity_dialog">dialog</string>
+    <string name="welcome">Bienvenido</string>
+    <string name="no_ano">Si no sabes el año, no te preocupes.</string>
+    <string name="alert_signo">Pero ten en cuenta que la casilla de edad estará con el signo \' ? \'</string>
+</resources>

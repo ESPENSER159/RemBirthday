@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:gravity="center"
+    android:layout_gravity="center"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="10.0sp"
+    android:layout_marginEnd="10.0dip"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <ImageView
+        android:layout_width="50.0dip"
+        android:layout_height="50.0dip"
+        android:src="@drawable/arrow_up" />
+
+
+    <com.jcminarro.roundkornerlayout.RoundKornerLinearLayout
+        android:orientation="vertical"
+        android:background="#81b3fcff"
+        android:padding="15.0dip"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        app:corner_radius="16.0dip">
+
+        <TextView
+            android:textSize="20.0sp"
+            android:textColor="#ff0c8c84"
+            android:gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5.0dip"
+            android:text="@string/textFirst1" />
+
+        <TextView
+            android:textSize="20.0sp"
+            android:textColor="#ff0c8c84"
+            android:gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/textFirst2" />
+
+    </com.jcminarro.roundkornerlayout.RoundKornerLinearLayout>
+
+
+    <com.jcminarro.roundkornerlayout.RoundKornerLinearLayout
+        android:layout_width="100.0dip"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        app:corner_radius="15dp">
+
+        <Button
+            android:textSize="20.0sp"
+            android:textStyle="bold"
+            android:textColor="#fffdf8eb"
+            android:id="@+id/okexception"
+            android:background="@color/main"
+            android:layout_width="0.0dip"
+            android:layout_height="50.0dip"
+            android:layout_marginLeft="5.0sp"
+            android:layout_marginRight="5.0sp"
+            android:text="@string/ok"
+            android:layout_weight="1.0"/>
+
+    </com.jcminarro.roundkornerlayout.RoundKornerLinearLayout>
+
+</LinearLayout>

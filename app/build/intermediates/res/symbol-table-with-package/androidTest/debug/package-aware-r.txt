@@ -1,0 +1,4 @@
+com.example.rembirthday.test
+style InstrumentationActivityInvokerBootstrapActivityTheme
+style InstrumentationActivityInvokerEmptyActivityTheme
+style InstrumentationActivityInvokerFloatingActivityTheme

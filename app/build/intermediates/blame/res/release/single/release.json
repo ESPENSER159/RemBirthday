@@ -1,0 +1,198 @@
+[
+    {
+        "merged": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\build\\intermediates\\res\\merged\\release\\layout_main_principal.xml.flat",
+        "source": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\src\\main\\res\\layout\\main_principal.xml"
+    },
+    {
+        "merged": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\build\\intermediates\\res\\merged\\release\\layout_toast_welcome.xml.flat",
+        "source": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\src\\main\\res\\layout\\toast_welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\build\\intermediates\\res\\merged\\release\\layout_dialog.xml.flat",
+        "source": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\src\\main\\res\\layout\\dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\build\\intermediates\\res\\merged\\release\\drawable_background.png.flat",
+        "source": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\src\\main\\res\\drawable\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\build\\intermediates\\res\\merged\\release\\layout_dialogexception.xml.flat",
+        "source": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\src\\main\\res\\layout\\dialogexception.xml"
+    },
+    {
+        "merged": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\build\\intermediates\\res\\merged\\release\\drawable_start.png.flat",
+        "source": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\src\\main\\res\\drawable\\start.png"
+    },
+    {
+        "merged": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\build\\intermediates\\res\\merged\\release\\layout_dialog_first.xml.flat",
+        "source": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\src\\main\\res\\layout\\dialog_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\build\\intermediates\\res\\merged\\release\\layout_list_view.xml.flat",
+        "source": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\src\\main\\res\\layout\\list_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\build\\intermediates\\res\\merged\\release\\drawable_arrow_up.png.flat",
+        "source": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\src\\main\\res\\drawable\\arrow_up.png"
+    },
+    {
+        "merged": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\build\\intermediates\\res\\merged\\release\\drawable_banderas.png.flat",
+        "source": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\src\\main\\res\\drawable\\banderas.png"
+    },
+    {
+        "merged": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\build\\intermediates\\res\\merged\\release\\drawable_arrow_down.png.flat",
+        "source": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\src\\main\\res\\drawable\\arrow_down.png"
+    },
+    {
+        "merged": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\build\\intermediates\\res\\merged\\release\\drawable_confetti.png.flat",
+        "source": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\src\\main\\res\\drawable\\confetti.png"
+    },
+    {
+        "merged": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\build\\intermediates\\res\\merged\\release\\drawable_gilf.png.flat",
+        "source": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\src\\main\\res\\drawable\\gilf.png"
+    },
+    {
+        "merged": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\build\\intermediates\\res\\merged\\release\\menu_menu.xml.flat",
+        "source": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\build\\intermediates\\res\\merged\\release\\layout_dialog_modify.xml.flat",
+        "source": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\src\\main\\res\\layout\\dialog_modify.xml"
+    },
+    {
+        "merged": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\build\\intermediates\\res\\merged\\release\\drawable_globos.png.flat",
+        "source": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\src\\main\\res\\drawable\\globos.png"
+    },
+    {
+        "merged": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\build\\intermediates\\res\\merged\\release\\font_bungee.ttf.flat",
+        "source": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\src\\main\\res\\font\\bungee.ttf"
+    },
+    {
+        "merged": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\build\\intermediates\\res\\merged\\release\\layout_toast_custom.xml.flat",
+        "source": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\src\\main\\res\\layout\\toast_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\build\\intermediates\\res\\merged\\release\\anim_fromtop.xml.flat",
+        "source": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\src\\main\\res\\anim\\fromtop.xml"
+    },
+    {
+        "merged": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\build\\intermediates\\res\\merged\\release\\layout_spinner_item_personalicer.xml.flat",
+        "source": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\src\\main\\res\\layout\\spinner_item_personalicer.xml"
+    },
+    {
+        "merged": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\build\\intermediates\\res\\merged\\release\\layout_dialog_delete.xml.flat",
+        "source": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\src\\main\\res\\layout\\dialog_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\build\\intermediates\\res\\merged\\release\\layout_add_datos.xml.flat",
+        "source": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\src\\main\\res\\layout\\add_datos.xml"
+    },
+    {
+        "merged": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\build\\intermediates\\res\\merged\\release\\anim_frombottom.xml.flat",
+        "source": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\src\\main\\res\\anim\\frombottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_more.png.flat",
+        "source": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\src\\main\\res\\drawable\\ic_more.png"
+    },
+    {
+        "merged": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\build\\intermediates\\res\\merged\\release\\drawable_confeti.png.flat",
+        "source": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\src\\main\\res\\drawable\\confeti.png"
+    },
+    {
+        "merged": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\build\\intermediates\\res\\merged\\release\\drawable_cake.png.flat",
+        "source": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\src\\main\\res\\drawable\\cake.png"
+    },
+    {
+        "merged": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\STEVEN\\AndroidStudioProjects\\RemBirthday\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_background.png"
+    }
+]

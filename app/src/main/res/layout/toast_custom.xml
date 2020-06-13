@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.jcminarro.roundkornerlayout.RoundKornerLinearLayout
+    android:gravity="center"
+    android:layout_gravity="center"
+    android:orientation="vertical"
+    android:id="@+id/toastCustom"
+    android:background="#b3d02a3a"
+    android:layout_width="350.0dip"
+    android:layout_height="50.0dip"
+    app:corner_radius="15.0dip"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <TextView
+        android:textSize="13.0sp"
+        android:typeface="normal"
+        android:textStyle="bold"
+        android:textColor="#ffececec"
+        android:layout_gravity="center"
+        android:id="@+id/toastCustomText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/bungee"
+        android:textAlignment="center" />
+
+</com.jcminarro.roundkornerlayout.RoundKornerLinearLayout>

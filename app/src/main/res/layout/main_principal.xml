@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    android:background="#ffdffeff"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ImageView
+        android:layout_gravity="center"
+        android:id="@+id/banderas"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/banderas"
+        android:overScrollMode="always" />
+
+    <LinearLayout
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10.0dip"
+            android:layout_marginRight="10.0dip">
+
+            <ImageView
+                android:id="@+id/confi1"
+                android:layout_width="50.0dip"
+                android:layout_height="34.0dip"
+                android:src="@drawable/confeti"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/cumple"
+                android:textSize="30.0sp"
+                android:textStyle="bold"
+                android:textColor="@color/main"
+                android:gravity="center"
+                android:layout_height="wrap_content"
+                android:layout_width="0dp"
+                android:layout_weight="0.6"
+                android:text="CUMPLEAÑOS"
+                android:onClick="onClick"
+                android:fontFamily="@font/bungee" />
+
+
+            <ImageView
+                android:id="@+id/confi2"
+                android:layout_width="50.0dip"
+                android:layout_height="34.0dip"
+                android:src="@drawable/confeti"
+                android:onClick="onClick"
+                android:scaleX="-1.0" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <ImageView
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:id="@+id/add"
+        android:layout_width="wrap_content"
+        android:layout_height="30.0dp"
+        android:layout_marginBottom="10dp"
+        android:src="@drawable/ic_more"
+        android:contentDescription="TODO" />
+
+    <TextView
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:id="@+id/notifyDeslizar"
+        android:visibility="gone"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/notiSlide" />
+
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <androidx.swiperefreshlayout.widget.SwipeRefreshLayout
+            android:id="@+id/swipeRefresh"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_marginBottom="0dip">
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/recyclerView"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent" />
+
+        </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
+
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/confetti"
+                android:visibility="invisible"
+                android:layout_width="fill_parent"
+                android:layout_height="200.0dip"
+                android:src="@drawable/confetti"
+                android:layout_weight="1.0" />
+
+            <ImageView
+                android:id="@+id/confetti2"
+                android:visibility="invisible"
+                android:layout_width="fill_parent"
+                android:layout_height="200.0dip"
+                android:src="@drawable/confetti"
+                android:layout_weight="1.0" />
+
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/globos"
+            android:visibility="invisible"
+            android:layout_width="70.0dip"
+            android:layout_height="100.0dip"
+            android:src="@drawable/globos"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="20.0sp" />
+
+        <ImageView
+            android:id="@+id/globos2"
+            android:visibility="invisible"
+            android:layout_width="80.0dip"
+            android:layout_height="120.0dip"
+            android:src="@drawable/globos"
+            android:layout_alignParentBottom="true"
+            android:scaleX="-1.0"
+            android:layout_marginEnd="30.0sp"
+            android:layout_alignParentEnd="true" />
+
+    </RelativeLayout>
+
+</LinearLayout>
